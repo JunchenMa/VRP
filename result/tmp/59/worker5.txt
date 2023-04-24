@@ -1,0 +1,8 @@
+C
+srcLoc..(40,50)
+go to (42,66) doing the task 4
+go to (62,80) doing the task 96
+go to (53,30) doing the task 73
+go to (23,55) doing the task 29
+go to (25,30) doing the task 52
+noting to do now, back to depot (40,50)
